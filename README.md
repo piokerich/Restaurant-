@@ -14,11 +14,4 @@ As a restaurant that operates on food delivery system a simple database system i
 4.	Order details-An accurate record of every order and purchase including the food name, category in the menu and prices of the food. Also, the addresses and where the orders were purchased.
 5.	Delivery-An accurate list of all deliveries done including their order dates and customer info and addresses.
 6.	Payment-an accurate record to store the payments details including the customer id and the order id.
-Entity Relationship Diagrams.
-Chen diagram
-![image](https://user-images.githubusercontent.com/115167536/204137258-63e51048-dd2d-414e-adc5-0f0eed7f3117.png)
-
- 
-Crowsfoot diagram.
- ![image](https://user-images.githubusercontent.com/115167536/204137270-9b2b5261-0c99-4085-a90e-adcb394a114c.png)
 
