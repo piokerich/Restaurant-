@@ -17,9 +17,9 @@ CustomerAdress varchar(100) NOT NULL
 
 INSERT INTO Customer(
 Customerid,CustomerName,CustomerContact,CustomerAdress )
-VALUES('0011','Pio Kerich',0722171851,'1712 KERICHO'),
+VALUES('0011','Pio Kerich',0712118911,'1712 KERICHO'),
 ('2212','Jude Keter',0723780930,'2512	NANDI'),
-('2213','Cornel Kipkosgei',0716212861,'1903 BOMET'),
+('2213','Cornel Kipkosgei',0716345671,'1903 BOMET'),
 ('2214','Gedion kiptoo',0722134890,'1712 KERICHO'),
 ('2215','Jose Camargo',679901123,'1234 KAKAMEGA'),
 ('2216','Kipkorir Seth',030004567,'6541 KERINGET'),
