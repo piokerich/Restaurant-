@@ -1,6 +1,7 @@
 # Restaurant-
+
 Restaurant online delivery database  with SQL queries.
-KIPKOSKEY PIO
+
 A Restaurant’s Food Delivery Database System Description.
 Technology has had a significant impact on the way organizations work and how the industry that has been most impacted is the food industry, Businesses can now provide meal delivery services to their consumers as a result of the development of restaurant food delivery system.
 Using a restaurant food delivery system has several advantages over other the manual system of customers visiting restaurants and queuing for long period of time as a result of a number of customers waiting for the restaurants services
